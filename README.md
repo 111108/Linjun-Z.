@@ -14,7 +14,7 @@ Hello! I'm Linjun, a Quantitative Economics and Statistics major from the Univer
 
 ## Academic Projects
 - **U.S. Economy Analysis**: Led an analysis of U.S. economic trends post-COVID-19, applying regression models to assess key economic indicators.
-- **Hospital Payment and Treatment Analysis**: Used data analysis and K-Nearest Neighbors Regressor to study payment associations in U.S. healthcare.
+- **Hospital Payment and Treatment Analysis**: Used data analysis and K-Nearest Neighbors Regressor to study payment associations in U.S. healthcare. (See the full analysis in the [CourseProject.ipynb](/CourseProject.ipynb))
 
 ## Fun Projects
 - **Game Development**: Developed versions of '2048' and 'Tic-Tac-Toe' in Python, showcasing my coding skills and interest in game development.
